@@ -118,5 +118,5 @@ class MainViewModel @Inject constructor(private val userPreferences: UserPrefere
 
 }
 ```
-##Functionality
+## Functionality
 With this implementation, you can seamlessly handle user preferences with coroutines and benefit from a more structured, type-safe approach to storing and retrieving data. The UserPreferences interface abstracts away the underlying implementation details, providing a clean API for the rest of your application to interact with user preferences. The PreferenceDataStore ensures efficient and asynchronous handling of the stored data.

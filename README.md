@@ -3,8 +3,9 @@
 ## Project Overview
 
 This project implements the use of `PreferenceDataStore` in Android to efficiently handle and manage user preferences. `PreferenceDataStore` is part of the Android DataStore library, which provides a modern, coroutine-based API for storing simple data asynchronously.
-![Screenshot_2024-01-11-12-51-00-535_com example preferencedatastore](https://github.com/AngryFalcon89/PreferenceDataStore/assets/91687355/5cd3f4d5-bac3-4dd2-93c2-34873887aff1)
-
+<p align="center">
+    <img src="https://github.com/AngryFalcon89/PreferenceDataStore/assets/91687355/5cd3f4d5-bac3-4dd2-93c2-34873887aff1" width="200" alt="Screenshot 1">
+</p>
 ## Purpose of PreferenceDataStore
 
 The primary purpose of using `PreferenceDataStore` is to provide a more robust, consistent, and coroutine-friendly alternative to the traditional `SharedPreferences`. It addresses some of the limitations of `SharedPreferences` and is particularly well-suited for handling asynchronous operations and complex data storage needs.

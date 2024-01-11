@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project implements the use of `PreferenceDataStore` in Android to efficiently handle and manage user preferences.
-<br/> `What is user Preferences?` 
+<br/> **What is user Preferences?** 
 <br/> user preferences a set of personal data that is of very small size and doesnot require a complete DataBase service to be stored, like wether app is getting opened first time so that we can show OnBoarding Screen, Access Tokens for a specipic server etc
 <br/> `PreferenceDataStore` is part of the Android DataStore library, which provides a modern, coroutine-based API for storing simple data asynchronously.
 <p align="center">
